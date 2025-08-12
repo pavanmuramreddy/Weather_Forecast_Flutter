@@ -28,7 +28,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/pavanmuramreddy/Weather_Forecast_Flutter.git]
+    git clone https://github.com/pavanmuramreddy/Weather_Forecast_Flutter.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -46,9 +46,9 @@ Follow these instructions to get a copy of the project up and running on your lo
     -   Open the file `lib/main.dart`.
     -   Find the following line:
         ```dart
-        const String API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';
+        const String API_KEY = 'MY_WEATHERMAP_API_KEY';
         ```
-    -   Replace `'YOUR_OPENWEATHERMAP_API_KEY'` with the key you obtained.
+    -   Replace `'MY_WEATHERMAP_API_KEY'` with the key you obtained.
 
 5.  **Run the app:**
     ```sh
