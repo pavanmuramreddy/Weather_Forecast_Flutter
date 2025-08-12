@@ -32,7 +32,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/flutter_weather_app.git](https://github.com/YOUR_USERNAME/flutter_weather_app.git)
+    git clone [[https://github.com/YOUR_USERNAME/flutter_weather_app.git](https://github.com/pavanmuramreddy/Weather_Forecast_Flutter.git)]
     ```
 
 2.  **Navigate to the project directory:**
