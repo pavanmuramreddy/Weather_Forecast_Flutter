@@ -15,10 +15,6 @@ A simple and clean weather forecast application built with Flutter. It displays 
 <img width="1023" height="636" alt="image" src="https://github.com/user-attachments/assets/a0e94215-c4c0-4af1-b369-86ab138f257d" />
 
 
-| Current Weather      | 7-Day Forecast      |
-| -------------------- | ------------------- |
-| ![Current Weather](https://placehold.co/300x600/e0f7fa/00695c?text=Current+Weather) | ![7-Day Forecast](https://placehold.co/300x600/e0f2f1/004d40?text=7-Day+Forecast) |
-
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -32,7 +28,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [[https://github.com/YOUR_USERNAME/flutter_weather_app.git](https://github.com/pavanmuramreddy/Weather_Forecast_Flutter.git)]
+    git clone [https://github.com/pavanmuramreddy/Weather_Forecast_Flutter.git]
     ```
 
 2.  **Navigate to the project directory:**
